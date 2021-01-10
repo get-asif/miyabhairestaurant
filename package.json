@@ -1,0 +1,19 @@
+{
+  "name": "miyabhairestaurant",
+  "version": "1.0.0",
+  "description": "Web interface for Miyabhai Restaurant",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/get-asif/miyabhairestaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/get-asif/miyabhairestaurant/issues"
+  },
+  "homepage": "https://github.com/get-asif/miyabhairestaurant#readme"
+}
